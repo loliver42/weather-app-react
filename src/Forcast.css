@@ -1,0 +1,9 @@
+.Forcast {
+  text-align: center;
+}
+.Forcast-temp-min {
+  opacity: 0.7;
+}
+.Forcast.temp-max {
+  font-weight: bold;
+}
